@@ -1,0 +1,230 @@
+10:414  3:002  Found BIOS RSDP at F0070
+10:414  0:000  Printing ACPI tables from RSDP F0070 ...
+10:414  0:000   F0070: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+10:414  0:000    (Xsdt: 7A33A0C8, Rsdt: 7A33A028)
+10:414  0:000    7A33A0C8: 'XSDT', 'SLIC-MPC', Rev: 1, Len: 276
+10:414  0:000    7A33A028: 'RSDT', 'SLIC-MPC', Rev: 1, Len: 156
+10:414  0:000    Tables in Xsdt: 30
+10:414  0:000    0. 7A371428: 'FACP', 'SLIC-MPC', Rev: 6, Len: 276
+10:414  0:000        (Dsdt: 7A33A270, Facs: 7A81CF00, XDsdt: 7A33A270, XFacs: 0)
+10:414  0:000        7A33A270: 'DSDT', '838F', Rev: 2, Len: 225718
+10:417  0:003        7A81CF00: 'FACS', Ver: 2, Len: 64
+10:417  0:000    1. 7A371540: 'APIC', '838F', Rev: 3, Len: 188
+10:417  0:000    2. 7A371600: 'FPDT', '838F', Rev: 1, Len: 68
+10:417  0:000    3. 7A371648: 'FIDT', '838F', Rev: 1, Len: 156
+10:417  0:000    4. 7A3716E8: 'MCFG', '838F', Rev: 1, Len: 60
+10:417  0:000    5. 7A371728: 'SSDT', '838F', Rev: 1, Len: 857
+10:417  0:000    6. 7A371A88: 'SSDT', '838F', Rev: 2, Len: 14763
+10:417  0:000    7. 7A375438: 'SSDT', '838F', Rev: 2, Len: 100
+10:417  0:000    8. 7A3754A0: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+10:417  0:000    9. 7A3754F8: 'SSDT', '838F', Rev: 2, Len: 12632
+10:417  0:000    10. 7A378650: 'SSDT', '838F', Rev: 2, Len: 10217
+10:417  0:000    11. 7A37AE40: 'HPET', '838F', Rev: 1, Len: 56
+10:417  0:000    12. 7A37AE78: 'SSDT', '838F', Rev: 2, Len: 2302
+10:417  0:000    13. 7A37B778: 'UEFI', '838F', Rev: 1, Len: 66
+10:417  0:000    14. 7A37B7C0: 'SSDT', '838F', Rev: 2, Len: 6062
+10:417  0:000    15. 7A37CF70: 'LPIT', '838F', Rev: 1, Len: 148
+10:417  0:000    16. 7A37D008: 'SSDT', '838F', Rev: 2, Len: 321
+10:417  0:000    17. 7A37D150: 'SSDT', '838F', Rev: 2, Len: 671
+10:417  0:000    18. 7A37D3F0: 'SSDT', '838F', Rev: 2, Len: 4583
+10:417  0:000    19. 7A37E5D8: 'SSDT', '838F', Rev: 2, Len: 694
+10:417  0:000    20. 7A37E890: 'SSDT', '838F', Rev: 2, Len: 745
+10:417  0:000    21. 7A37EB80: 'DBGP', '838F', Rev: 1, Len: 52
+10:417  0:000    22. 7A37EBB8: 'DBG2', '838F', Rev: 0, Len: 84
+10:417  0:000    23. 7A37EC10: 'SSDT', '838F', Rev: 2, Len: 174
+10:417  0:000    24. 7A37ECC0: 'DMAR', '838F', Rev: 1, Len: 204
+10:417  0:000    25. 7A37ED90: 'NHLT', '838F', Rev: 0, Len: 45
+10:417  0:000    26. 7A37EDC0: 'SSDT', '838F', Rev: 1, Len: 7701
+10:417  0:000    27. 7A380BD8: 'ASF!', '838F', Rev: 32, Len: 160
+10:417  0:000    28. 7A380C78: 'WSMT', '838F', Rev: 1, Len: 40
+10:417  0:000    29. 7A380CA0: 'BGRT', '838F', Rev: 1, Len: 56
+10:417  0:000    Tables in Rsdt: 30
+10:417  0:000    0. 7A33A1E8: 'FACP', 'SLIC-MPC', Rev: 2, Len: 132
+10:417  0:000        (Dsdt: 7A33A270, Facs: 7A81CEC0)
+10:417  0:000        7A33A270: 'DSDT', '838F', Rev: 2, Len: 225718
+10:420  0:003        7A81CEC0: 'FACS', Ver: 0, Len: 64
+10:420  0:000    1. 7A371540: 'APIC', '838F', Rev: 3, Len: 188
+10:420  0:000    2. 7A371600: 'FPDT', '838F', Rev: 1, Len: 68
+10:420  0:000    3. 7A371648: 'FIDT', '838F', Rev: 1, Len: 156
+10:420  0:000    4. 7A3716E8: 'MCFG', '838F', Rev: 1, Len: 60
+10:420  0:000    5. 7A371728: 'SSDT', '838F', Rev: 1, Len: 857
+10:420  0:000    6. 7A371A88: 'SSDT', '838F', Rev: 2, Len: 14763
+10:420  0:000    7. 7A375438: 'SSDT', '838F', Rev: 2, Len: 100
+10:420  0:000    8. 7A3754A0: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+10:420  0:000    9. 7A3754F8: 'SSDT', '838F', Rev: 2, Len: 12632
+10:420  0:000    10. 7A378650: 'SSDT', '838F', Rev: 2, Len: 10217
+10:420  0:000    11. 7A37AE40: 'HPET', '838F', Rev: 1, Len: 56
+10:420  0:000    12. 7A37AE78: 'SSDT', '838F', Rev: 2, Len: 2302
+10:420  0:000    13. 7A37B778: 'UEFI', '838F', Rev: 1, Len: 66
+10:420  0:000    14. 7A37B7C0: 'SSDT', '838F', Rev: 2, Len: 6062
+10:420  0:000    15. 7A37CF70: 'LPIT', '838F', Rev: 1, Len: 148
+10:420  0:000    16. 7A37D008: 'SSDT', '838F', Rev: 2, Len: 321
+10:420  0:000    17. 7A37D150: 'SSDT', '838F', Rev: 2, Len: 671
+10:420  0:000    18. 7A37D3F0: 'SSDT', '838F', Rev: 2, Len: 4583
+10:420  0:000    19. 7A37E5D8: 'SSDT', '838F', Rev: 2, Len: 694
+10:420  0:000    20. 7A37E890: 'SSDT', '838F', Rev: 2, Len: 745
+10:420  0:000    21. 7A37EB80: 'DBGP', '838F', Rev: 1, Len: 52
+10:420  0:000    22. 7A37EBB8: 'DBG2', '838F', Rev: 0, Len: 84
+10:420  0:000    23. 7A37EC10: 'SSDT', '838F', Rev: 2, Len: 174
+10:420  0:000    24. 7A37ECC0: 'DMAR', '838F', Rev: 1, Len: 204
+10:420  0:000    25. 7A37ED90: 'NHLT', '838F', Rev: 0, Len: 45
+10:420  0:000    26. 7A37EDC0: 'SSDT', '838F', Rev: 1, Len: 7701
+10:420  0:000    27. 7A380BD8: 'ASF!', '838F', Rev: 32, Len: 160
+10:420  0:000    28. 7A380C78: 'WSMT', '838F', Rev: 1, Len: 40
+10:420  0:000    29. 7A380CA0: 'BGRT', '838F', Rev: 1, Len: 56
+10:420  0:000  Found UEFI Acpi 2.0 RSDP at 7A33A000
+10:420  0:000  Saving ACPI tables from RSDP 7A33A000 to EFI\CLOVER\ACPI\origin ...
+10:420  0:000   7A33A000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+10:565  0:144    (Xsdt: 7A33A0C8, Rsdt: 7A33A028)
+10:565  0:000    7A33A0C8: 'XSDT', 'SLIC-MPC', Rev: 1, Len: 276 -> XSDT.aml
+10:634  0:069    7A33A028: 'RSDT', 'SLIC-MPC', Rev: 1, Len: 156 -> RSDT.aml
+10:710  0:075    Tables in Xsdt: 30
+10:710  0:000    0. 7A371428: 'FACP', 'SLIC-MPC', Rev: 6, Len: 276 -> FACP.aml
+10:790  0:080        (Dsdt: 7A33A270, Facs: 7A81CF00, XDsdt: 7A33A270, XFacs: 0)
+10:790  0:000        7A33A270: 'DSDT', '838F', Rev: 2, Len: 225718 -> DSDT.aml
+10:892  0:101        7A81CF00: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+10:980  0:088    1. 7A371540: 'APIC', '838F', Rev: 3, Len: 188 -> APIC.aml
+11:067  0:087    2. 7A371600: 'FPDT', '838F', Rev: 1, Len: 68 -> FPDT.aml
+11:155  0:087    3. 7A371648: 'FIDT', '838F', Rev: 1, Len: 156 -> FIDT.aml
+11:241  0:086    4. 7A3716E8: 'MCFG', '838F', Rev: 1, Len: 60 -> MCFG.aml
+11:329  0:087    5. 7A371728: 'SSDT', '838F', Rev: 1, Len: 857 -> SSDT-0-838F.aml
+11:424  0:094    6. 7A371A88: 'SSDT', '838F', Rev: 2, Len: 14763 -> SSDT-1-838F.aml
+11:551  0:127    7. 7A375438: 'SSDT', '838F', Rev: 2, Len: 100 -> SSDT-2-838F.aml
+11:635  0:083    8. 7A3754A0: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85 -> MSDM.aml
+11:716  0:081    9. 7A3754F8: 'SSDT', '838F', Rev: 2, Len: 12632 -> SSDT-3-838F.aml
+11:807  0:090    10. 7A378650: 'SSDT', '838F', Rev: 2, Len: 10217 -> SSDT-4-838F.aml
+11:894  0:087    11. 7A37AE40: 'HPET', '838F', Rev: 1, Len: 56 -> HPET.aml
+11:982  0:087    12. 7A37AE78: 'SSDT', '838F', Rev: 2, Len: 2302 -> SSDT-5-838F.aml
+12:070  0:087    13. 7A37B778: 'UEFI', '838F', Rev: 1, Len: 66 -> UEFI.aml
+12:178  0:108    14. 7A37B7C0: 'SSDT', '838F', Rev: 2, Len: 6062 -> SSDT-6-838F.aml (Found hidden SSDT 7 pcs)
+12:259  0:080        * 7A280098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1617  53 53 44 54 51 06 00 00 02 09 50 6D 52 65 66 00 Internal length = 1617 -> SSDT-x6_0-Cpu0Ist.aml
+12:339  0:080        * 79A46018: 'SSDT', 'ApIst', Rev: 2, Len: 3348  53 53 44 54 14 0D 00 00 02 30 50 6D 52 65 66 00 Internal length = 3348 -> SSDT-x6_1-ApIst.aml
+12:420  0:081        * 79A47698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1023  53 53 44 54 FF 03 00 00 02 17 50 6D 52 65 66 00 Internal length = 1023 -> SSDT-x6_2-Cpu0Cst.aml
+12:501  0:080        * 79A45018: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 99 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x6_3-ApCst.aml
+12:582  0:080        * 7A280718: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 186  53 53 44 54 BA 00 00 00 02 83 50 6D 52 65 66 00 Internal length = 186 -> SSDT-x6_4-Cpu0Hwp.aml
+12:692  0:110        * 79A45418: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 86 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x6_5-ApHwp.aml
+12:773  0:080        * 79A47018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1576  53 53 44 54 28 06 00 00 02 8B 50 6D 52 65 66 00 Internal length = 1576 -> SSDT-x6_6-HwpLvt.aml
+12:854  0:081  
+12:854  0:000    15. 7A37CF70: 'LPIT', '838F', Rev: 1, Len: 148 -> LPIT.aml
+12:933  0:079    16. 7A37D008: 'SSDT', '838F', Rev: 2, Len: 321 -> SSDT-7-838F.aml
+13:013  0:080    17. 7A37D150: 'SSDT', '838F', Rev: 2, Len: 671 -> SSDT-8-838F.aml
+13:093  0:079    18. 7A37D3F0: 'SSDT', '838F', Rev: 2, Len: 4583 -> SSDT-9-838F.aml
+13:202  0:108    19. 7A37E5D8: 'SSDT', '838F', Rev: 2, Len: 694 -> SSDT-10-838F.aml
+13:282  0:080    20. 7A37E890: 'SSDT', '838F', Rev: 2, Len: 745 -> SSDT-11-838F.aml
+13:362  0:080    21. 7A37EB80: 'DBGP', '838F', Rev: 1, Len: 52 -> DBGP.aml
+13:443  0:080    22. 7A37EBB8: 'DBG2', '838F', Rev: 0, Len: 84 -> DBG2.aml
+13:524  0:080    23. 7A37EC10: 'SSDT', '838F', Rev: 2, Len: 174 -> SSDT-12-838F.aml
+13:604  0:080    24. 7A37ECC0: 'DMAR', '838F', Rev: 1, Len: 204 -> DMAR.aml
+13:684  0:079    25. 7A37ED90: 'NHLT', '838F', Rev: 0, Len: 45 -> NHLT.aml
+13:764  0:080    26. 7A37EDC0: 'SSDT', '838F', Rev: 1, Len: 7701 -> SSDT-13-838F.aml
+13:875  0:110    27. 7A380BD8: 'ASF!', '838F', Rev: 32, Len: 160 -> ASF!.aml
+13:973  0:098    28. 7A380C78: 'WSMT', '838F', Rev: 1, Len: 40 -> WSMT.aml
+14:063  0:089    29. 7A380CA0: 'BGRT', '838F', Rev: 1, Len: 56 -> BGRT.aml
+14:161  0:097    Tables in Rsdt: 30
+14:161  0:000    0. 7A33A1E8: 'FACP', 'SLIC-MPC', Rev: 2, Len: 132 -> RSDT-FACP.aml
+14:261  0:099        (Dsdt: 7A33A270, Facs: 7A81CEC0)
+14:261  0:000        7A33A270: 'DSDT', '838F', Rev: 2, Len: 225718
+14:264  0:003        7A81CEC0: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+14:361  0:096    1. 7A371540: 'APIC', '838F', Rev: 3, Len: 188
+14:361  0:000    2. 7A371600: 'FPDT', '838F', Rev: 1, Len: 68
+14:361  0:000    3. 7A371648: 'FIDT', '838F', Rev: 1, Len: 156
+14:361  0:000    4. 7A3716E8: 'MCFG', '838F', Rev: 1, Len: 60
+14:361  0:000    5. 7A371728: 'SSDT', '838F', Rev: 1, Len: 857
+14:361  0:000    6. 7A371A88: 'SSDT', '838F', Rev: 2, Len: 14763
+14:361  0:000    7. 7A375438: 'SSDT', '838F', Rev: 2, Len: 100
+14:361  0:000    8. 7A3754A0: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+14:361  0:000    9. 7A3754F8: 'SSDT', '838F', Rev: 2, Len: 12632
+14:361  0:000    10. 7A378650: 'SSDT', '838F', Rev: 2, Len: 10217
+14:361  0:000    11. 7A37AE40: 'HPET', '838F', Rev: 1, Len: 56
+14:361  0:000    12. 7A37AE78: 'SSDT', '838F', Rev: 2, Len: 2302
+14:361  0:000    13. 7A37B778: 'UEFI', '838F', Rev: 1, Len: 66
+14:361  0:000    14. 7A37B7C0: 'SSDT', '838F', Rev: 2, Len: 6062
+14:361  0:000    15. 7A37CF70: 'LPIT', '838F', Rev: 1, Len: 148
+14:361  0:000    16. 7A37D008: 'SSDT', '838F', Rev: 2, Len: 321
+14:361  0:000    17. 7A37D150: 'SSDT', '838F', Rev: 2, Len: 671
+14:361  0:000    18. 7A37D3F0: 'SSDT', '838F', Rev: 2, Len: 4583
+14:361  0:000    19. 7A37E5D8: 'SSDT', '838F', Rev: 2, Len: 694
+14:361  0:000    20. 7A37E890: 'SSDT', '838F', Rev: 2, Len: 745
+14:361  0:000    21. 7A37EB80: 'DBGP', '838F', Rev: 1, Len: 52
+14:361  0:000    22. 7A37EBB8: 'DBG2', '838F', Rev: 0, Len: 84
+14:361  0:000    23. 7A37EC10: 'SSDT', '838F', Rev: 2, Len: 174
+14:361  0:000    24. 7A37ECC0: 'DMAR', '838F', Rev: 1, Len: 204
+14:361  0:000    25. 7A37ED90: 'NHLT', '838F', Rev: 0, Len: 45
+14:361  0:000    26. 7A37EDC0: 'SSDT', '838F', Rev: 1, Len: 7701
+14:361  0:000    27. 7A380BD8: 'ASF!', '838F', Rev: 32, Len: 160
+14:361  0:000    28. 7A380C78: 'WSMT', '838F', Rev: 1, Len: 40
+14:361  0:000    29. 7A380CA0: 'BGRT', '838F', Rev: 1, Len: 56
+14:361  0:000  Found UEFI Acpi 1.0 RSDP at 7A33A000
+14:361  0:000  Printing ACPI tables from RSDP 7A33A000 ...
+14:361  0:000   7A33A000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:361  0:000    (Xsdt: 7A33A0C8, Rsdt: 7A33A028)
+14:361  0:000    7A33A0C8: 'XSDT', 'SLIC-MPC', Rev: 1, Len: 276
+14:361  0:000    7A33A028: 'RSDT', 'SLIC-MPC', Rev: 1, Len: 156
+14:361  0:000    Tables in Xsdt: 30
+14:361  0:000    0. 7A371428: 'FACP', 'SLIC-MPC', Rev: 6, Len: 276
+14:361  0:000        (Dsdt: 7A33A270, Facs: 7A81CF00, XDsdt: 7A33A270, XFacs: 0)
+14:361  0:000        7A33A270: 'DSDT', '838F', Rev: 2, Len: 225718
+14:364  0:003        7A81CF00: 'FACS', Ver: 2, Len: 64
+14:364  0:000    1. 7A371540: 'APIC', '838F', Rev: 3, Len: 188
+14:364  0:000    2. 7A371600: 'FPDT', '838F', Rev: 1, Len: 68
+14:364  0:000    3. 7A371648: 'FIDT', '838F', Rev: 1, Len: 156
+14:364  0:000    4. 7A3716E8: 'MCFG', '838F', Rev: 1, Len: 60
+14:364  0:000    5. 7A371728: 'SSDT', '838F', Rev: 1, Len: 857
+14:364  0:000    6. 7A371A88: 'SSDT', '838F', Rev: 2, Len: 14763
+14:364  0:000    7. 7A375438: 'SSDT', '838F', Rev: 2, Len: 100
+14:364  0:000    8. 7A3754A0: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+14:364  0:000    9. 7A3754F8: 'SSDT', '838F', Rev: 2, Len: 12632
+14:364  0:000    10. 7A378650: 'SSDT', '838F', Rev: 2, Len: 10217
+14:364  0:000    11. 7A37AE40: 'HPET', '838F', Rev: 1, Len: 56
+14:364  0:000    12. 7A37AE78: 'SSDT', '838F', Rev: 2, Len: 2302
+14:364  0:000    13. 7A37B778: 'UEFI', '838F', Rev: 1, Len: 66
+14:364  0:000    14. 7A37B7C0: 'SSDT', '838F', Rev: 2, Len: 6062
+14:364  0:000    15. 7A37CF70: 'LPIT', '838F', Rev: 1, Len: 148
+14:364  0:000    16. 7A37D008: 'SSDT', '838F', Rev: 2, Len: 321
+14:364  0:000    17. 7A37D150: 'SSDT', '838F', Rev: 2, Len: 671
+14:364  0:000    18. 7A37D3F0: 'SSDT', '838F', Rev: 2, Len: 4583
+14:364  0:000    19. 7A37E5D8: 'SSDT', '838F', Rev: 2, Len: 694
+14:364  0:000    20. 7A37E890: 'SSDT', '838F', Rev: 2, Len: 745
+14:364  0:000    21. 7A37EB80: 'DBGP', '838F', Rev: 1, Len: 52
+14:364  0:000    22. 7A37EBB8: 'DBG2', '838F', Rev: 0, Len: 84
+14:364  0:000    23. 7A37EC10: 'SSDT', '838F', Rev: 2, Len: 174
+14:364  0:000    24. 7A37ECC0: 'DMAR', '838F', Rev: 1, Len: 204
+14:364  0:000    25. 7A37ED90: 'NHLT', '838F', Rev: 0, Len: 45
+14:364  0:000    26. 7A37EDC0: 'SSDT', '838F', Rev: 1, Len: 7701
+14:364  0:000    27. 7A380BD8: 'ASF!', '838F', Rev: 32, Len: 160
+14:364  0:000    28. 7A380C78: 'WSMT', '838F', Rev: 1, Len: 40
+14:364  0:000    29. 7A380CA0: 'BGRT', '838F', Rev: 1, Len: 56
+14:364  0:000    Tables in Rsdt: 30
+14:364  0:000    0. 7A33A1E8: 'FACP', 'SLIC-MPC', Rev: 2, Len: 132
+14:364  0:000        (Dsdt: 7A33A270, Facs: 7A81CEC0)
+14:364  0:000        7A33A270: 'DSDT', '838F', Rev: 2, Len: 225718
+14:367  0:003        7A81CEC0: 'FACS', Ver: 0, Len: 64
+14:367  0:000    1. 7A371540: 'APIC', '838F', Rev: 3, Len: 188
+14:367  0:000    2. 7A371600: 'FPDT', '838F', Rev: 1, Len: 68
+14:367  0:000    3. 7A371648: 'FIDT', '838F', Rev: 1, Len: 156
+14:367  0:000    4. 7A3716E8: 'MCFG', '838F', Rev: 1, Len: 60
+14:367  0:000    5. 7A371728: 'SSDT', '838F', Rev: 1, Len: 857
+14:367  0:000    6. 7A371A88: 'SSDT', '838F', Rev: 2, Len: 14763
+14:367  0:000    7. 7A375438: 'SSDT', '838F', Rev: 2, Len: 100
+14:367  0:000    8. 7A3754A0: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+14:367  0:000    9. 7A3754F8: 'SSDT', '838F', Rev: 2, Len: 12632
+14:367  0:000    10. 7A378650: 'SSDT', '838F', Rev: 2, Len: 10217
+14:367  0:000    11. 7A37AE40: 'HPET', '838F', Rev: 1, Len: 56
+14:367  0:000    12. 7A37AE78: 'SSDT', '838F', Rev: 2, Len: 2302
+14:367  0:000    13. 7A37B778: 'UEFI', '838F', Rev: 1, Len: 66
+14:367  0:000    14. 7A37B7C0: 'SSDT', '838F', Rev: 2, Len: 6062
+14:367  0:000    15. 7A37CF70: 'LPIT', '838F', Rev: 1, Len: 148
+14:367  0:000    16. 7A37D008: 'SSDT', '838F', Rev: 2, Len: 321
+14:367  0:000    17. 7A37D150: 'SSDT', '838F', Rev: 2, Len: 671
+14:367  0:000    18. 7A37D3F0: 'SSDT', '838F', Rev: 2, Len: 4583
+14:367  0:000    19. 7A37E5D8: 'SSDT', '838F', Rev: 2, Len: 694
+14:367  0:000    20. 7A37E890: 'SSDT', '838F', Rev: 2, Len: 745
+14:367  0:000    21. 7A37EB80: 'DBGP', '838F', Rev: 1, Len: 52
+14:367  0:000    22. 7A37EBB8: 'DBG2', '838F', Rev: 0, Len: 84
+14:367  0:000    23. 7A37EC10: 'SSDT', '838F', Rev: 2, Len: 174
+14:367  0:000    24. 7A37ECC0: 'DMAR', '838F', Rev: 1, Len: 204
+14:367  0:000    25. 7A37ED90: 'NHLT', '838F', Rev: 0, Len: 45
+14:367  0:000    26. 7A37EDC0: 'SSDT', '838F', Rev: 1, Len: 7701
+14:367  0:000    27. 7A380BD8: 'ASF!', '838F', Rev: 32, Len: 160
+14:368  0:000    28. 7A380C78: 'WSMT', '838F', Rev: 1, Len: 40
+14:368  0:000    29. 7A380CA0: 'BGRT', '838F', Rev: 1, Len: 56
