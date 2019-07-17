@@ -4,11 +4,11 @@
 
 ### 😥There may be some problems with this EFI, use with caution！
 
-<p><center>English(当前)|中文</center></p>
+<p><center>English(当前)|<a href="https://github.com/bessyjl/HP-OMEN-3-Hackintosh/blob/master/zh_CN_README.md">中文</a></center></p>
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-![IMG_20190716_095724](C:\Users\YJL19\Documents\Tencent Files\631908942\FileRecv\MobileFile\IMG_20190716_095724.jpg)
+![](images/IMG_20190716_095724.jpg)
 
 ### Configuration
 
@@ -74,21 +74,21 @@ tonymacx86[HP OMEN 15-dc电池错误](https://www.tonymacx86.com/threads/solved-
 
 👍The image is from the blog of @黑果小兵's blog, and I use this image myself!
 
-迅雷离线(BT)下载：[[请点击下载](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/macOS Mojave 10.14.5(18F132) Installer with Clover 4928.dmg)] 感谢`@难忘情怀`提供下载资源
+XunLei Offline (BT) download：[[请点击下载](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/macOS Mojave 10.14.5(18F132) Installer with Clover 4928.dmg)] Thanks to`@难忘情怀`for downloading resources
 
-http下载链接:[请点击下载](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) 感谢`@难忘情怀`提供下载资源
+Http Download link:[[请点击下载](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)] Thanks to`@难忘情怀`for downloading resources
 
-百毒云：链接: <https://pan.baidu.com/s/1AKuzJXJe7haNYWo00YwJlQ> 提取码: ivmi
+`BaiDuCloud link`: <https://pan.baidu.com/s/1AKuzJXJe7haNYWo00YwJlQ> `Extraction code`: `ivmi`
 
-MD5 (macOS Mojave 10.14.5(18F132) Installer with Clover 4928.dmg) = 371d9145484beaf0795d6b7d0d569fc3
+MD5 (macOS Mojave 10.14.5(18F132) Installer with Clover 4928.dmg) = `371d9145484beaf0795d6b7d0d569fc3`
 
 ### Acknowledgement(thank、gratitude)
 
-- 感谢 [Acidanthera](https://github.com/acidanthera) 提供 [AppleALC](https://github.com/acidanthera/AppleALC)，[HibernationFixup](https://github.com/acidanthera/HibernationFixup)，[Lilu](https://github.com/acidanthera/Lilu)，[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)，[VirtualSMC](https://github.com/acidanthera/VirtualSMC)，[VoodooPS2](https://github.com/acidanthera/VoodooPS2) 和 [WhateverGreen](https://github.com/acidanthera/WhateverGreen)。
-- 感谢 [alexandred](https://github.com/alexandred) 提供 [VoodooI2C](https://github.com/alexandred/VoodooI2C)。
-- 感谢 [apianti](https://sourceforge.net/u/apianti)，[blackosx](https://sourceforge.net/u/blackosx)，[blusseau](https://sourceforge.net/u/blusseau)，[dmazar](https://sourceforge.net/u/dmazar) 和 [slice2009](https://sourceforge.net/u/slice2009) 提供 [Clover](https://sourceforge.net/projects/cloverefiboot)。
-- 感谢 [RehabMan](https://github.com/RehabMan) 提供 [EAPD-Codec-Commander](https://github.com/RehabMan/EAPD-Codec-Commander)，[OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config)，[OS-X-Null-Ethernet](https://github.com/RehabMan/OS-X-Null-Ethernet)，[OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) 和 [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext)。
-- 感谢远景论坛的各位大佬提供的教程，以及[黑果小兵](https://github.com/daliansky)的镜像。
+- Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC)，[HibernationFixup](https://github.com/acidanthera/HibernationFixup)，[Lilu](https://github.com/acidanthera/Lilu)，[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)，[VirtualSMC](https://github.com/acidanthera/VirtualSMC)，[VoodooPS2](https://github.com/acidanthera/VoodooPS2) and [WhateverGreen](https://github.com/acidanthera/WhateverGreen)。
+- Thanks to [alexandred](https://github.com/alexandred) for providing [VoodooI2C](https://github.com/alexandred/VoodooI2C)。
+- Thanks to [apianti](https://sourceforge.net/u/apianti)，[blackosx](https://sourceforge.net/u/blackosx)，[blusseau](https://sourceforge.net/u/blusseau)，[dmazar](https://sourceforge.net/u/dmazar) and [slice2009](https://sourceforge.net/u/slice2009) for providing [Clover](https://sourceforge.net/projects/cloverefiboot)。
+- Thanks to [RehabMan](https://github.com/RehabMan) for providing [EAPD-Codec-Commander](https://github.com/RehabMan/EAPD-Codec-Commander)，[OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config)，[OS-X-Null-Ethernet](https://github.com/RehabMan/OS-X-Null-Ethernet)，[OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) and [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext)。
+- Thanks to the tutorials provided by the Vision Forum and the image of [黑果小兵](https://github.com/daliansky)。
 
 ### Common problem
 
@@ -106,7 +106,7 @@ A:I don't know, you can try to ask your computer: Why can't you?
 
 **Q:Why is it so expensive?**
 
-A:Google搜索:如何禁用独立显卡以节省电量
+A:Google Search: How to disable discrete graphics to save battery.
 
 **Q:Why is there no HiDPI?**
 
@@ -118,9 +118,9 @@ The sound card of Shadow Elves 3 is ALC295, find the `VoodooHDA-295.pkg` I provi
 
 ### 😘Support me
 
-| 微信                                                         | 支付宝                                                     |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| ![mm_facetoface_collect_qrcode_1563329754957](C:\Users\YJL19\Desktop\mm_facetoface_collect_qrcode_1563329754957.png) | ![1563329762473](C:\Users\YJL19\Desktop\1563329762473.jpg) |
+| 微信                      | 支付宝                 |
+| ------------------------- | ---------------------- |
+| ![](images/WeiXinPay.png) | ![](images/AliPay.png) |
 
 PayPal:https://www.paypal.me/bessyjl
 

@@ -2,11 +2,11 @@
 
 ### 😥此EFI可能存在某些问题，谨慎使用
 
-<p><center>English|中文(当前)</center></p>
+<p><center><a href="https://github.com/bessyjl/HP-OMEN-3-Hackintosh">English</a>|中文(当前)</center></p>
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-![IMG_20190716_095724](C:\Users\YJL19\Documents\Tencent Files\631908942\FileRecv\MobileFile\IMG_20190716_095724.jpg)
+![](images/IMG_20190716_095724.jpg)
 
 ### 配置
 
@@ -116,9 +116,9 @@ A:我并不能解决所有的问题，如果您能向我提供帮助，那么太
 
 ### 😘提供动力
 
-| 微信                                                         | 支付宝                                                     |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| ![mm_facetoface_collect_qrcode_1563329754957](C:\Users\YJL19\Desktop\mm_facetoface_collect_qrcode_1563329754957.png) | ![1563329762473](C:\Users\YJL19\Desktop\1563329762473.jpg) |
+| 微信                               | 支付宝                           |
+| ---------------------------------- | -------------------------------- |
+| ![WeiXinPay](images/WeiXinPay.png) | ![AliPay.png](images/AliPay.png) |
 
 PayPal:https://www.paypal.me/bessyjl
 
