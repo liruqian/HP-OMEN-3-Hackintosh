@@ -6,7 +6,12 @@
 
 <p><center>English(当前)|<a href="https://github.com/bessyjl/HP-OMEN-3-Hackintosh/blob/master/zh_CN_README.md">中文</a></center></p>
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![](https://img.shields.io/badge/License-GNUv3.0-brightgreen.svg)](https://github.com/bessyjl/HP-OMEN-3-Hackintosh/blob/master/LICENSE)
+[![](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![](https://img.shields.io/badge/platform-markdown-blue.svg)](https://shields.io/category/chat)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.zhuimeng.online/)
+[![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%AA%E5%93%87%E6%B4%BE%E7%94%9F-lightgrey.svg)]()
+[![](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ![](images/IMG_20190716_095724.jpg)
 
